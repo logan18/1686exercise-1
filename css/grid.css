@@ -43,6 +43,7 @@
   word-spacing: normal;
   display: inline-block;
   visibility: visible;
+  text-align:center;
 }
 
 .grid-bottom .unit {
@@ -466,7 +467,7 @@ unit-m-90{
 }
 
 .unit-l-1-3 {
-  width: 33.3333%;
+  width: 32.7%;
 }
 
 .unit-offset-l-1-3 {

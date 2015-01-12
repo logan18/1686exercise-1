@@ -28,14 +28,13 @@
  
   display: inline-block;
   text-decoration: inherit;
-  width: 1em;
+
   margin-right: .2em;
   text-align: center;
   /* opacity: .8; */
  
   /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
-  text-transform: none;
      
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
@@ -54,3 +53,8 @@
 .icon-a:before { content: '\e800'; } /* '' */
 .icon-b:before { content: '\e801'; } /* '' */
 .icon-c:before { content: '\e802'; } /* '' */
+
+.icon-a:hover { content: '\e800'; color:#2380A7; box-shadow:#000000;} /* '' */
+.icon-b:hover { content: '\e800'; color:#2380A7;} /* '' */
+.icon-c:hover { content: '\e800'; color:#2380A7;} /* '' */
+
