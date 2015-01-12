@@ -186,3 +186,6 @@ sub {
   padding-right: 3.0000rem;
 }
 
+.center{
+	text-align: center;
+}
