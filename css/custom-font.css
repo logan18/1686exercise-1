@@ -54,7 +54,7 @@
 .icon-b:before { content: '\e801'; } /* '' */
 .icon-c:before { content: '\e802'; } /* '' */
 
-.icon-a:hover { content: '\e800'; color:#2380A7; box-shadow:#000000;} /* '' */
+.icon-a:hover { content: '\e800'; color:#2380A7; } /* '' */
 .icon-b:hover { content: '\e800'; color:#2380A7;} /* '' */
 .icon-c:hover { content: '\e800'; color:#2380A7;} /* '' */
 
